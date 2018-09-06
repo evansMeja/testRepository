@@ -1,1 +1,1 @@
-print ("I am Hungry")
+print ("I am CRAZY ME")
